@@ -11,10 +11,11 @@ A Streamlit-based chatbot that can answer questions from uploaded PDF, DOCX, or 
 
 ## Demo
 
-- Live demo (if deployed on Streamlit Cloud): [Demo Link](#)
+- Live demo : [Demo Link](#)
 - Example screenshot:
 
-![Chatbot Screenshot](assets/screenshot.png)
+<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/440798c2-dab2-4993-8a4d-64cb7c66150d" />
+
 
 > Replace the link and screenshot with your actual demo and image.
 
