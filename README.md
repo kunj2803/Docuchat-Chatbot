@@ -25,7 +25,8 @@ A Streamlit-based chatbot that can answer questions from uploaded PDF, DOCX, or 
 
 ```bash
 git clone git@github.com:kunj2803/Docuchat-Chatbot.git
-cd docuchat-gemini```
+cd docuchat-gemini
+```
 
 2. Install dependencies:
 
