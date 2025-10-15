@@ -4,4 +4,5 @@ PyPDF2
 python-docx
 google-generativeai
 google-genai==0.2.0
+gTTS==2.3.2
 
