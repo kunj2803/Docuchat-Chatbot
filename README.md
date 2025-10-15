@@ -9,6 +9,15 @@ A Streamlit-based chatbot that can answer questions from uploaded PDF, DOCX, or 
 - Stores chat history in session.
 - Uses `.env` for secure API key storage.
 
+## Demo
+
+- Live demo (if deployed on Streamlit Cloud): [Demo Link](#)
+- Example screenshot:
+
+![Chatbot Screenshot](assets/screenshot.png)
+
+> Replace the link and screenshot with your actual demo and image.
+
 ## Setup
 
 1. Clone the repo:
@@ -16,18 +25,19 @@ A Streamlit-based chatbot that can answer questions from uploaded PDF, DOCX, or 
 ```bash
 git clone git@github.com:kunj2803/Docuchat-Chatbot.git
 cd docuchat-gemini
-```
 
 2. Install dependencies:
 
-```pip install -r requirements.txt```
+```bash
+pip install -r requirements.txt
 
+3. Create a `.env` file with your Gemini API key:
 
-3. Create a .env file with your Gemini API key:
-
-```GEMINI_API_KEY=your_gemini_api_key_here```
-
+```dotenv
+GEMINI_API_KEY=your_gemini_api_key_here
 
 4. Run the app:
 
-```streamlit run chatbot.py```
+```bash
+streamlit run chatbot.py
+
