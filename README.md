@@ -8,13 +8,15 @@ A Streamlit-based chatbot that can answer questions from uploaded PDF, DOCX, or 
 - Chat-like interface similar to ChatGPT.
 - Stores chat history in session.
 - Uses `.env` for secure API key storage.
+- enables voice output
 
 ## Demo
 
 - Live demo : [Demo Link](#)
 - Example screenshot:
 
-<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/440798c2-dab2-4993-8a4d-64cb7c66150d" />
+<img width="1919" height="979" alt="image" src="https://github.com/user-attachments/assets/e7dbb74d-8427-40e3-96ee-3eda32108b9c" />
+
 
 
 > Replace the link and screenshot with your actual demo and image.
