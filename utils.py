@@ -24,7 +24,6 @@ def read_document(uploaded_file):
     else:
         return ""
 
-# --- Function to get answer from Gemini ---
 def get_answer_from_doc(uploaded_file, question):
     doc_text = read_document(uploaded_file)
     prompt = f"Document:\n{doc_text}\n\nQuestion: {question}\nAnswer:"
